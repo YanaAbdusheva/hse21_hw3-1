@@ -26,4 +26,7 @@ SRR3414637 | control | 20385570 | 19847291 | 17844858 | 15736978 |
 ### 5. Тепловая карта  
 ![image](https://user-images.githubusercontent.com/55440084/142887608-210c14b6-6c55-4698-a9b8-b55769b2f688.png)
   
-### 6. 
+### 6. 3 гена с наибольшим положительным значением изменения экспрессии
+![image](https://user-images.githubusercontent.com/55440084/142931075-a24ec4fa-cd96-496a-966b-f622d809d7fc.png)
+![image](https://user-images.githubusercontent.com/55440084/142931191-406bb740-7716-49e7-9c22-c9083b402b0e.png)
+![image](https://user-images.githubusercontent.com/55440084/142931216-a682b48b-8f9f-472b-9066-489fab5ab864.png)  
